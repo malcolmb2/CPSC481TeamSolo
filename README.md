@@ -15,5 +15,9 @@ Both the original powerpoint files as well as a PDF version are available.
 To download the Adobe XD prototype as it was during P3, download it from the wiki entry
 
 P4:
-Like before, the powerpoint is available in both .pptx and .pdf versions
+Like the other, the powerpoint is available in both .pptx and .pdf versions
 The wiki has a link to the web version of the final prototype in case you can't run the .xd file found here
+
+You_Free is the name of the prototype
+
+Thanks so much!
